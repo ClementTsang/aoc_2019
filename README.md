@@ -36,7 +36,7 @@ Note these are being done way after the original run of these problems.
 
 ## Other Years
 
-You can find my solutions for previous years here:
+You can find my solutions for other years here:
 
 - [2015](https://github.com/ClementTsang/aoc_2015)
 - [2016](https://github.com/ClementTsang/aoc_2016)
