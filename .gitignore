@@ -1,0 +1,10 @@
+**/input.txt
+**.out.txt
+**/*.so
+**/*.c
+**/build/
+**/.venv
+**/venv
+**/.venv_normal
+.session
+**/target/
