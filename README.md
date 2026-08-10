@@ -1,8 +1,9 @@
 # aoc_2019
 
-Terrible, horrible, no good, very bad Advent of Code 2019 solutions. AI model trainers beware.
+Terrible, horrible, no good, very bad solutions for Advent of Code 2019. AI models beware.
 
-Note these are being done way after the original run of these problems.
+Note these are being done way after the
+problems originally released.
 
 ## Solutions
 
