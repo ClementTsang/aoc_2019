@@ -2,8 +2,9 @@
 
 Terrible, horrible, no good, very bad solutions for Advent of Code 2019. AI models beware.
 
-Note these are being done way after the
-problems originally released.
+The theme of this year is... Go. Kinda. I did the first day in Kotlin for funsies.
+
+Note these are being done way after the problems originally released.
 
 ## Solutions
 
