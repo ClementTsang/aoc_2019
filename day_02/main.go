@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"log"
 	"os"
 	"strconv"
 	"strings"
@@ -92,7 +91,8 @@ func main() {
 
 	inputBytes, err := os.ReadFile(inputFile)
 	if err != nil {
-		log.Fatalf("couldn't read file: %s", err)
+		fmt.Printf("couldn't read file: %s\n", err)
+		return
 	}
 	input := string(inputBytes)
 
